@@ -5,3 +5,11 @@
 }
 
 //a) O erro é a ausência de aspas duplas nas chaves (nome, idade, cidade).
+
+// b) O erro é a falta de uma vírgula após "idade": 30.
+
+{
+  "nome": "Maria",
+  "idade": 30,
+  "cidade": "Rio de Janeiro"
+}
