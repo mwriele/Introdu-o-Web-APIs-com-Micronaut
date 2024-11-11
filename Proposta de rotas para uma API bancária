@@ -1,0 +1,29 @@
+1. Criar uma conta
+
+Verbo HTTP: POST
+URL: /contas
+Descrição: Cria uma nova conta bancária para um usuário.
+
+2. Consultar saldo
+
+Verbo HTTP: GET
+URL: /contas/{id}/saldo
+Descrição: Retorna o saldo da conta especificada por {id}.
+
+3. Realizar um depósito
+
+Verbo HTTP: POST
+URL: /contas/{id}/deposito
+Descrição: Adiciona um valor na conta especificada por {id}.
+
+4. Realizar um saque
+
+Verbo HTTP: POST
+URL: /contas/{id}/saque
+Descrição: Realiza um saque da conta especificada por {id}.
+
+5.Transferir dinheiro
+
+Verbo HTTP: POST
+URL: /contas/{idOrigem}/transferencia/{idDestino}
+Descrição: Transfere dinheiro da conta {idOrigem} para a conta {idDestino}.
