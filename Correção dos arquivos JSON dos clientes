@@ -1,0 +1,7 @@
+{
+  "nome": "João",
+  "idade": 25,
+  "cidade": "São Paulo"
+}
+
+//a) O erro é a ausência de aspas duplas nas chaves (nome, idade, cidade).
