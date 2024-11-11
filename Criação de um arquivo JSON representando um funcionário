@@ -1,0 +1,7 @@
+{
+  "nome": "Carlos Silva",
+  "cargo": "Analista de Sistemas",
+  "salario": 6000.00,
+  "dataContratacao": "2022-05-15",
+  "ativo": true
+}
